@@ -1,0 +1,4 @@
+output/
+/input.txt
+mid/*.txt
+!mid/master.txt
